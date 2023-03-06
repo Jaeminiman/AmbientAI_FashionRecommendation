@@ -1,0 +1,15 @@
+{
+    "short sleeve top" : 0,
+    "long sleeve top" : 1,
+    "short sleeve outwear" : 2,
+    "long sleeve outwear" : 3,
+    "vest" : 4,
+    "sling" : 5,
+    "shorts" : 6,
+    "trousers" : 7,
+    "skirt" : 8,
+    "short sleeve dress" : 9,
+    "long sleeve dress" : 10,
+    "vest dress" : 11,
+    "sling dress" : 12
+}
